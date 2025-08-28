@@ -1,5 +1,5 @@
 vim.pack.add({
-	{ src = "https://github.com/catppuccin/nvim.git" },
+	{ src = "https://github.com/catppuccin/nvim.git", name = "catppuccin" },
 	{ src = "https://github.com/rcarriga/nvim-notify" },
 	{ src = "https://github.com/neovim/nvim-lspconfig.git" },
 	{ src = "https://github.com/nvim-treesitter/nvim-treesitter" },
